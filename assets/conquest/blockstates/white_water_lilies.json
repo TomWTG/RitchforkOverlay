@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "": [
+      { "model": "conquest:block/white_water_lilies/lily1",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily2",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily3",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily4",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily5",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily6",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily7",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily8",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily9",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily10",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily11",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily12",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily13",
+        "yoffset": -1.5 },
+      { "model": "conquest:block/white_water_lilies/lily14",
+        "yoffset": -1.5 }
+    ]
+  }
+}

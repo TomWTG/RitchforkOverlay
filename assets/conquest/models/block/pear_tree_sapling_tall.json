@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Conquest Reforged",
+	"textures": {
+		"1": "conquest:block/9_organic/1_wood/1_saplings/pear_tree_sapling_tall",
+		"particle": "conquest:block/9_organic/1_wood/1_saplings/pear_tree_sapling_tall"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [-3, -0.25, -3],
+			"to": [-2.999, 31.75, 29],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [-3, -0.25, -3]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [19, -0.25, -3],
+			"to": [19.001, 31.75, 29],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [19, -0.25, -3]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

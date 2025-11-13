@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "toggle=1": { "model": "conquest:block/large_wooden_crate_apples" },
+        "toggle=2": { "model": "conquest:block/large_wooden_crate_cabbages" },
+        "toggle=3": { "model": "conquest:block/large_wooden_crate_melons" },
+        "toggle=4": { "model": "conquest:block/large_wooden_crate_pumpkins" }
+    }
+}

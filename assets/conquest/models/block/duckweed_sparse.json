@@ -1,0 +1,12 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/duckweed.obj",
+	"emissive_ambient": false,
+	"ambientocclusion": false,
+	"shadeQuads": false,
+	"flip_v": true,
+	"textures": {
+		"all": "conquest:block/9_organic/3_plants/duckweed_sparse",
+		"particle": "conquest:block/9_organic/3_plants/duckweed_sparse"
+	}
+}

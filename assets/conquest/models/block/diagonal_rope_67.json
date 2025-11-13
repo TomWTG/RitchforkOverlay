@@ -1,0 +1,53 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "conquest:block/3_decoration/4_cloth/rope/rope"
+	},
+	"elements": [
+		{
+			"from": [8, 6.82814, 11.88122],
+			"to": [8, 17.28129, 14.38122],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6.82814, 13.13122]},
+			"faces": {
+				"east": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"},
+				"west": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [8, -3.62501, 11.88122],
+			"to": [8, 6.82814, 14.38122],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6.82814, 13.13122]},
+			"faces": {
+				"east": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"},
+				"west": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [6.75, -3.62501, 13.13122],
+			"to": [9.25, 6.82814, 13.13122],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6.82814, 13.13122]},
+			"faces": {
+				"north": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"},
+				"south": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [6.75, 6.82814, 13.13122],
+			"to": [9.25, 17.28129, 13.13122],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6.82814, 13.13122]},
+			"faces": {
+				"north": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"},
+				"south": {"uv": [9.5, 10.5, 7, 0], "texture": "#particle"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

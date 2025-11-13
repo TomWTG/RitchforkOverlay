@@ -1,0 +1,11 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/thin_white_picket_fence_ne_down.obj",
+	"emissive_ambient": true,
+	"flip-v": true,
+	"parent": "block/block",
+	"textures": {
+		"particle": "conquest:block/2_advanced_refined/7_wood/1_painted/thin_white_picket_fence",
+		"texture": "conquest:block/2_advanced_refined/7_wood/1_painted/thin_white_picket_fence"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/fallen_branches_5.obj",
+	"emissive_ambient": true,
+	"flip-v": true,
+	"parent": "block/block",
+	"textures": {
+		"particle": "conquest:block/9_organic/2_leaves/pine/dead/underbranch_downwards",
+		"texture": "conquest:block/9_organic/2_leaves/pine/dead/underbranch_downwards"
+	}
+}

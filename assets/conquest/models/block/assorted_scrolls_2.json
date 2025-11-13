@@ -1,0 +1,14 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/metal_cans_debris_2.obj",
+	"emissive_ambient": true,
+	"flip-v": true,
+	"parent": "block/block",
+	"textures": {
+		"particle": "conquest:block/tin_can_2",
+		"texture1": "conquest:block/tin_can_1",
+		"texture2": "conquest:block/tin_can_2",
+		"texture3": "conquest:block/tin_can_3",
+		"texture4": "conquest:block/tin_can_4"
+	}
+}

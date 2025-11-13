@@ -1,0 +1,9 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "architects:models/obj/half_diagonal_slope_ud.obj",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "#side"
+	}
+}

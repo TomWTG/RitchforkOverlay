@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "conquest:block/2_advanced_refined/7_wood/carved_oak_wood_arch_design_bottom",
+        "top": "conquest:block/2_advanced_refined/7_wood/carved_oak_wood_arch_design_top"
+    }
+}

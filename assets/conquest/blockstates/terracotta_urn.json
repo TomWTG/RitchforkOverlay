@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "toggle=1,facing=north": { "model": "conquest:block/water_closet" },
+        "toggle=1,facing=east": { "model": "conquest:block/water_closet", "y": 90 },
+        "toggle=1,facing=south": { "model": "conquest:block/water_closet", "y": 180 },
+        "toggle=1,facing=west": { "model": "conquest:block/water_closet", "y": 270 },
+        "toggle=2,facing=north": { "model": "conquest:block/water_closet_closed" },
+        "toggle=2,facing=east": { "model": "conquest:block/water_closet_closed", "y": 90 },
+        "toggle=2,facing=south": { "model": "conquest:block/water_closet_closed", "y": 180 },
+        "toggle=2,facing=west": { "model": "conquest:block/water_closet_closed", "y": 270 }
+    }
+}

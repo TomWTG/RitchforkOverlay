@@ -1,0 +1,140 @@
+{
+  "variants": {
+    "extension=1,facing=east,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "y": 90
+    },
+    "extension=1,facing=east,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=1,facing=north,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope"
+    },
+    "extension=1,facing=north,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "yoffset": 8
+    },
+    "extension=1,facing=south,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "y": 180
+    },
+    "extension=1,facing=south,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=1,facing=west,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "y": 270
+    },
+    "extension=1,facing=west,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=2,facing=east,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "y": 90
+    },
+    "extension=2,facing=east,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=2,facing=north,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_d"
+    },
+    "extension=2,facing=north,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "yoffset": 8
+    },
+    "extension=2,facing=south,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "y": 180
+    },
+    "extension=2,facing=south,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=2,facing=west,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "y": 270
+    },
+    "extension=2,facing=west,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_d",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=3,facing=east,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "y": 90
+    },
+    "extension=3,facing=east,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=3,facing=north,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_u"
+    },
+    "extension=3,facing=north,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "yoffset": 8
+    },
+    "extension=3,facing=south,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "y": 180
+    },
+    "extension=3,facing=south,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=3,facing=west,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "y": 270
+    },
+    "extension=3,facing=west,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_u",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=4,facing=east,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "y": 90
+    },
+    "extension=4,facing=east,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=4,facing=north,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_ud"
+    },
+    "extension=4,facing=north,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "yoffset": 8
+    },
+    "extension=4,facing=south,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "y": 180
+    },
+    "extension=4,facing=south,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=4,facing=west,half=bottom": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "y": 270
+    },
+    "extension=4,facing=west,half=top": {
+      "model": "architects:block/half_diagonal_wood_slope_ud",
+      "y": 270,
+      "yoffset": 8
+    }
+  }
+}

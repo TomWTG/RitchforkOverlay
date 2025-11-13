@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_board_1",
+  "textures": {
+    "side": "conquest:block/3_decoration/4_cloth/cyan_canvas"
+  }
+}

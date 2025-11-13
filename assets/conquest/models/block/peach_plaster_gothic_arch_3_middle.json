@@ -1,0 +1,12 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/block/obj/smooth_gothic_arch_3_middle.obj",
+    "emissive_ambient": true,
+    "flip_v": true,
+    "textures": {
+        "particle": "conquest:block/3_decoration/4_cloth/cyan_canvas",
+        "keystones": "conquest:block/3_decoration/4_cloth/cyan_canvas",
+        "underside1": "conquest:block/3_decoration/4_cloth/cyan_canvas",
+        "underside2": "conquest:block/3_decoration/4_cloth/cyan_canvas"
+    }
+}

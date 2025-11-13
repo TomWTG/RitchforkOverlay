@@ -1,0 +1,15 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/block/obj/smooth_round_arch_3.obj",
+    "emissive_ambient": true,
+    "flip_v": true,
+    "textures": {
+        "particle": "conquest:block/3_decoration/4_cloth/white_canvas",
+        "keystones": "conquest:block/3_decoration/4_cloth/white_canvas",
+        "keystones1": "conquest:block/3_decoration/4_cloth/white_canvas",
+        "keystones2": "conquest:block/3_decoration/4_cloth/white_canvas",
+        "underside1": "conquest:block/3_decoration/4_cloth/white_canvas",
+        "underside2": "conquest:block/3_decoration/4_cloth/white_canvas",
+        "underside3": "conquest:block/3_decoration/4_cloth/white_canvas"
+    }
+}

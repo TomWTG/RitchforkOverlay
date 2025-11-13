@@ -1,0 +1,11 @@
+{
+	"loader": "porting_lib:obj",
+	"parent": "minecraft:block/block",
+	"model": "architects:models/obj/half_diagonal_slope.obj",
+	"parent": "block/block",
+	"emissive_ambient": true,
+	"flip_v": true,
+	"textures": {
+		"particle": "#side"
+	}
+}

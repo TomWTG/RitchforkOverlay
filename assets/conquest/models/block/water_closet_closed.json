@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"parent": "conquest:block/water_closet",
+	"elements": [
+		{
+			"from": [0, 0, 3.5],
+			"to": [16, 8.5, 14.5],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 4.25], "texture": "#particle"},
+				"east": {"uv": [8, 0, 13.5, 4.25], "texture": "#particle"},
+				"south": {"uv": [0, 0, 8, 4.25], "texture": "#particle"},
+				"west": {"uv": [8, 0, 13.5, 4.25], "texture": "#particle"},
+				"down": {"uv": [0, 4.25, 8, 9.75], "texture": "#particle", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 8.5, 3],
+			"to": [16, 10, 14.5],
+			"faces": {
+				"north": {"uv": [0, 9.75, 8, 10.5], "texture": "#particle"},
+				"east": {"uv": [0, 9.75, 5.75, 10.5], "texture": "#particle"},
+				"south": {"uv": [0, 9.75, 8, 10.5], "texture": "#particle"},
+				"west": {"uv": [0, 9.75, 5.75, 10.5], "texture": "#particle"},
+				"down": {"uv": [0, 4.25, 8, 9.75], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [0, 10, 12.5],
+			"to": [16, 11, 14.5],
+			"faces": {
+				"north": {"uv": [0, 10.5, 8, 11], "texture": "#particle"},
+				"east": {"uv": [0, 10.5, 1, 11], "texture": "#particle"},
+				"south": {"uv": [0, 10.5, 8, 11], "texture": "#particle"},
+				"west": {"uv": [0, 10.5, 1, 11], "texture": "#particle"},
+				"up": {"uv": [0, 11, 8, 12], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [0.025, 10, 3],
+			"to": [15.975, 11, 12.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 10.5, 12.5]},
+			"faces": {
+				"north": {"uv": [0, 10.75, 8, 11.25], "rotation": 180, "texture": "#particle"},
+				"east": {"uv": [0, 10.75, 4.75, 11.25], "rotation": 180, "texture": "#particle"},
+				"south": {"uv": [0, 11.25, 8, 10.75], "texture": "#particle"},
+				"west": {"uv": [0, 11.25, 4.75, 10.75], "texture": "#particle"},
+				"up": {"uv": [8, 9, 16, 13.75], "texture": "#particle"}
+			}
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/plant_dense_model_8_b",
+	"textures": {
+		"texture": "conquest:block/9_organic/3_plants/autumnal_dwarf_birch"
+	},
+	"elements": [
+		{
+			"from": [11.56875, -2, 6.27933],
+			"to": [27.56875, 14, 6.27933],
+			"rotation": {"angle": 30, "axis": "y", "origin": [7.75, 8.25, 7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [-10.99632, -2, 9.02249],
+			"to": [5.00368, 14, 9.02249],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [7.75, 7.25, 7.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [-8.78292, -1, 11.9738],
+			"to": [7.21708, 15, 11.9738],
+			"rotation": {"angle": -27.5, "axis": "y", "origin": [7.75, 5.75, 7.25]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [12.17676, -1, -14.27881],
+			"to": [12.17676, 15, 1.72119],
+			"rotation": {"angle": -12.5, "axis": "y", "origin": [7.75, 5.75, 7.25]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6.31898, -1, 11.48018],
+			"to": [6.31898, 15, 27.48018],
+			"rotation": {"angle": 12.5, "axis": "y", "origin": [7.75, 5.75, 7.25]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [11.65849, 0, 6.51971],
+			"to": [11.65849, 16, 22.51971],
+			"rotation": {"angle": -30, "axis": "y", "origin": [7.75, 5.75, 7.25]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [5.81627, 0, 2.11918],
+			"to": [21.81627, 16, 2.11918],
+			"rotation": {"angle": -27.5, "axis": "y", "origin": [7.75, 5.75, 7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

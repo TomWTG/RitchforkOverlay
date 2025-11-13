@@ -1,0 +1,33 @@
+{
+    "variants": {
+        "toggle=1,facing=north": { "model": "conquest:block/fallen_branch_long_1" },
+        "toggle=1,facing=east": { "model": "conquest:block/fallen_branch_long_1", "y": 90 },
+        "toggle=1,facing=south": { "model": "conquest:block/fallen_branch_long_1", "y": 180 },
+        "toggle=1,facing=west": { "model": "conquest:block/fallen_branch_long_1", "y": 270 },
+
+        "toggle=2,facing=north": { "model": "conquest:block/fallen_branch_long_2" },
+        "toggle=2,facing=east": { "model": "conquest:block/fallen_branch_long_2", "y": 90 },
+        "toggle=2,facing=south": { "model": "conquest:block/fallen_branch_long_2", "y": 180 },
+        "toggle=2,facing=west": { "model": "conquest:block/fallen_branch_long_2", "y": 270 },
+
+        "toggle=3,facing=north": { "model": "conquest:block/fallen_branch_long_3" },
+        "toggle=3,facing=east": { "model": "conquest:block/fallen_branch_long_3", "y": 90 },
+        "toggle=3,facing=south": { "model": "conquest:block/fallen_branch_long_3", "y": 180 },
+        "toggle=3,facing=west": { "model": "conquest:block/fallen_branch_long_3", "y": 270 },
+
+        "toggle=4,facing=north": { "model": "conquest:block/fallen_branch_long_4" },
+        "toggle=4,facing=east": { "model": "conquest:block/fallen_branch_long_4", "y": 90 },
+        "toggle=4,facing=south": { "model": "conquest:block/fallen_branch_long_4", "y": 180 },
+        "toggle=4,facing=west": { "model": "conquest:block/fallen_branch_long_4", "y": 270 },
+
+        "toggle=5,facing=north": { "model": "conquest:block/fallen_branch_long_5" },
+        "toggle=5,facing=east": { "model": "conquest:block/fallen_branch_long_5", "y": 90 },
+        "toggle=5,facing=south": { "model": "conquest:block/fallen_branch_long_5", "y": 180 },
+        "toggle=5,facing=west": { "model": "conquest:block/fallen_branch_long_5", "y": 270 },
+
+        "toggle=6,facing=north": { "model": "conquest:block/fallen_branch_long_6" },
+        "toggle=6,facing=east": { "model": "conquest:block/fallen_branch_long_6", "y": 90 },
+        "toggle=6,facing=south": { "model": "conquest:block/fallen_branch_long_6", "y": 180 },
+        "toggle=6,facing=west": { "model": "conquest:block/fallen_branch_long_6", "y": 270 }
+    }
+}

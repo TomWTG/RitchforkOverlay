@@ -1,0 +1,292 @@
+{
+  "variants": {
+    "extension=1,facing=east,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 90
+    },
+    "extension=1,facing=east,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 90,
+      "yoffset": 4
+    },
+    "extension=1,facing=east,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=1,facing=east,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 90,
+      "yoffset": 12
+    },
+    "extension=1,facing=north,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope"
+    },
+    "extension=1,facing=north,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "yoffset": 4
+    },
+    "extension=1,facing=north,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "yoffset": 8
+    },
+    "extension=1,facing=north,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "yoffset": 12
+    },
+    "extension=1,facing=south,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 180
+    },
+    "extension=1,facing=south,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 180,
+      "yoffset": 4
+    },
+    "extension=1,facing=south,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=1,facing=south,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 180,
+      "yoffset": 12
+    },
+    "extension=1,facing=west,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 270
+    },
+    "extension=1,facing=west,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 270,
+      "yoffset": 4
+    },
+    "extension=1,facing=west,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=1,facing=west,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope",
+      "y": 270,
+      "yoffset": 12
+    },
+    "extension=2,facing=east,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 90
+    },
+    "extension=2,facing=east,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 90,
+      "yoffset": 4
+    },
+    "extension=2,facing=east,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=2,facing=east,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 90,
+      "yoffset": 12
+    },
+    "extension=2,facing=north,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d"
+    },
+    "extension=2,facing=north,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "yoffset": 4
+    },
+    "extension=2,facing=north,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "yoffset": 8
+    },
+    "extension=2,facing=north,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "yoffset": 12
+    },
+    "extension=2,facing=south,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 180
+    },
+    "extension=2,facing=south,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 180,
+      "yoffset": 4
+    },
+    "extension=2,facing=south,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=2,facing=south,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 180,
+      "yoffset": 12
+    },
+    "extension=2,facing=west,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 270
+    },
+    "extension=2,facing=west,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 270,
+      "yoffset": 4
+    },
+    "extension=2,facing=west,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=2,facing=west,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_d",
+      "y": 270,
+      "yoffset": 12
+    },
+    "extension=3,facing=east,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 90
+    },
+    "extension=3,facing=east,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 90,
+      "yoffset": 4
+    },
+    "extension=3,facing=east,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=3,facing=east,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 90,
+      "yoffset": 12
+    },
+    "extension=3,facing=north,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u"
+    },
+    "extension=3,facing=north,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "yoffset": 4
+    },
+    "extension=3,facing=north,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "yoffset": 8
+    },
+    "extension=3,facing=north,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "yoffset": 12
+    },
+    "extension=3,facing=south,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 180
+    },
+    "extension=3,facing=south,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 180,
+      "yoffset": 4
+    },
+    "extension=3,facing=south,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=3,facing=south,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 180,
+      "yoffset": 12
+    },
+    "extension=3,facing=west,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 270
+    },
+    "extension=3,facing=west,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 270,
+      "yoffset": 4
+    },
+    "extension=3,facing=west,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=3,facing=west,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_u",
+      "y": 270,
+      "yoffset": 12
+    },
+    "extension=4,facing=east,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 90
+    },
+    "extension=4,facing=east,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 90,
+      "yoffset": 4
+    },
+    "extension=4,facing=east,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 90,
+      "yoffset": 8
+    },
+    "extension=4,facing=east,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 90,
+      "yoffset": 12
+    },
+    "extension=4,facing=north,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud"
+    },
+    "extension=4,facing=north,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "yoffset": 4
+    },
+    "extension=4,facing=north,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "yoffset": 8
+    },
+    "extension=4,facing=north,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "yoffset": 12
+    },
+    "extension=4,facing=south,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 180
+    },
+    "extension=4,facing=south,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 180,
+      "yoffset": 4
+    },
+    "extension=4,facing=south,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 180,
+      "yoffset": 8
+    },
+    "extension=4,facing=south,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 180,
+      "yoffset": 12
+    },
+    "extension=4,facing=west,part=bottom": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 270
+    },
+    "extension=4,facing=west,part=middle1": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 270,
+      "yoffset": 4
+    },
+    "extension=4,facing=west,part=middle2": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 270,
+      "yoffset": 8
+    },
+    "extension=4,facing=west,part=top": {
+      "model": "architects:block/shallow_diagonal_wood_slope_ud",
+      "y": 270,
+      "yoffset": 12
+    }
+  }
+}

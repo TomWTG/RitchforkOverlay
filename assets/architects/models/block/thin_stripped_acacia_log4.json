@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_thin_stripped_log4",
+  "textures": {
+    "end": "architects:block/apple_wood_beam",
+    "side": "architects:block/apple_wood_beam"
+  }
+}

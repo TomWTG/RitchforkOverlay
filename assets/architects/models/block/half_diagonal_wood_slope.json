@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_half_diagonal_slope",
+  "textures": {
+    "end": "architects:block/slope",
+    "side": "architects:block/slope"
+  }
+}
