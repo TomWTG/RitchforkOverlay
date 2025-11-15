@@ -1,0 +1,84 @@
+{
+    "variants": {
+        "layers=8": [
+            {"model": "conquest:block/coco_yam"},
+            {"model": "conquest:block/coco_yam", "y": 45},
+            {"model": "conquest:block/coco_yam", "y": 90},
+            {"model": "conquest:block/coco_yam", "y": 135},
+            {"model": "conquest:block/coco_yam", "y": 180},
+            {"model": "conquest:block/coco_yam", "y": 225},
+            {"model": "conquest:block/coco_yam", "y": 270},
+            {"model": "conquest:block/coco_yam", "y": 315}
+        ],
+        "layers=7": [
+            {"model": "conquest:block/coco_yam", "yoffset": -2},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -2, "y": 315}
+        ],
+        "layers=6": [
+            {"model": "conquest:block/coco_yam", "yoffset": -4},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -4, "y": 315}
+        ],
+        "layers=5": [
+            {"model": "conquest:block/coco_yam", "yoffset": -6},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -6, "y": 315}
+        ],
+        "layers=4": [
+            {"model": "conquest:block/coco_yam", "yoffset": -8},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -8, "y": 315}
+        ],
+        "layers=3": [
+            {"model": "conquest:block/coco_yam", "yoffset": -10},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -10, "y": 315}
+        ],
+        "layers=2": [
+            {"model": "conquest:block/coco_yam", "yoffset": -12},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -12, "y": 315}
+        ],
+        "layers=1": [
+            {"model": "conquest:block/coco_yam", "yoffset": -14},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 45},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 90},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 135},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 180},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 225},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 270},
+            {"model": "conquest:block/coco_yam", "yoffset": -14, "y": 315}
+        ]
+    }
+}
