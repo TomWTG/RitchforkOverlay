@@ -1,0 +1,76 @@
+{
+  "variants": {
+    "layers\u003d1": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_1_b", "yoffset":14
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_1_c", "yoffset":14
+      }
+    ],
+    "layers\u003d2": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_2_b", "yoffset":12
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_2_c", "yoffset":12
+      }
+    ],
+    "layers\u003d3": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_3_b", "yoffset":10
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_3_c", "yoffset":10
+      }
+    ],
+    "layers\u003d4": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_4_b", "yoffset":8
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_4_c", "yoffset":8
+      }
+    ],
+    "layers\u003d5": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_5_b", "yoffset":6
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_5_c", "yoffset":6
+      }
+    ],
+    "layers\u003d6": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_6_b", "yoffset":4
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_6_c", "yoffset":4
+      }
+    ],
+    "layers\u003d7": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_7_b", "yoffset":2
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_7_c", "yoffset":2
+      }
+    ],
+    "layers\u003d8": [
+      
+      {
+        "model": "conquest:block/sweet_woodruff_shrub_model_8_b"
+      },
+      {
+        "model": "conquest:block/sweet_woodruff_plant_dense_model_8_c"
+      }
+    ]
+  }
+}
