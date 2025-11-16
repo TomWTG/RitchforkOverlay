@@ -440,6 +440,19 @@
   "block.conquest.cyan_canvas_vertical_corner_slab": "Bleached Canvas Vertical Corner Slab",
   "block.conquest.cyan_canvas_vertical_quarter": "Bleached Canvas Vertical Quarter",
   "block.conquest.cyan_canvas_vertical_slab": "Bleached Canvas Vertical Slab",
+  "block.conquest.diagonal_acacia_branch_45_connector": "Diagonal Acacia Branch Flat",
+  "block.conquest.diagonal_birch_branch_45_connector": "Diagonal Acacia Branch Flat",
+  "block.conquest.diagonal_beech_branch_45_connector": "Diagonal Acacia Branch Flat",
+  "block.conquest.diagonal_orange_pine_branch_45_connector": "Diagonal Acacia Branch Flat",
+  "block.conquest.diagonal_oak_branch_45_connector": "Diagonal Acacia Branch Flat",
+
+  "block.conquest.thick_diagonal_acacia_branch_45_connector": "Thick Diagonal Acacia Branch Flat",
+  "block.conquest.thick_diagonal_birch_branch_45_connector": "Thick Diagonal Acacia Branch Flat",
+  "block.conquest.thick_diagonal_beech_branch_45_connector": "Thick Diagonal Acacia Branch Flat",
+  "block.conquest.thick_diagonal_orange_pine_branch_45_connector": "Thick Diagonal Acacia Branch Flat",
+  "block.conquest.thick_diagonal_spruce_branch_45_connector": "Thick Diagonal Acacia Branch Flat",
+  "block.conquest.thick_diagonal_oak_branch_45_connector": "Thick Diagonal Acacia Branch Flat",
+
   "block.conquest.short_broom": "Short Fallen Branch",
   "block.conquest.wax_tablet": "Long Fallen Branch"
 }
