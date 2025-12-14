@@ -1,0 +1,19 @@
+{
+    "targets": [
+        "conquest:rr_utility"
+    ],
+    "removals": [
+        {
+            "type": "id_match",
+            "path": ".*"
+        }
+    ],
+    "additions": [
+        {
+            "items": [
+                "minecraft:air"
+            ],
+            "inverse": true
+        }
+    ]
+}
