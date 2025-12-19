@@ -1,0 +1,85 @@
+{"variants":{
+"layers\u003d1":[
+      {
+        "model": "conquest:block/deergrass_1_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_1_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_1_c_1tall"
+      }
+],"layers\u003d2":[
+      {
+        "model": "conquest:block/deergrass_2_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_2_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_2_c_1tall"
+      }
+],"layers\u003d3":[
+      {
+        "model": "conquest:block/deergrass_3_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_3_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_3_c_1tall"
+      }
+],"layers\u003d4":[
+      {
+        "model": "conquest:block/deergrass_4_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_4_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_4_c_1tall"
+      }
+],"layers\u003d5":[
+      {
+        "model": "conquest:block/deergrass_5_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_5_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_5_c_1tall"
+      }
+  ],"layers\u003d6":[
+      {
+        "model": "conquest:block/deergrass_6_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_6_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_6_c_1tall"
+      }
+  ],
+  "layers\u003d7":[
+      {
+        "model": "conquest:block/deergrass_7_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_7_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_7_c_1tall"
+      }
+  ],
+  "layers\u003d8":[
+      {
+        "model": "conquest:block/deergrass_8_a_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_8_b_1tall"
+      },
+      {
+        "model": "conquest:block/deergrass_8_c_1tall"
+      }
+  ]
+}}

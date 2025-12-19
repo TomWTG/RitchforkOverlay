@@ -1,0 +1,12 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/plant_dense_64/plant_7_a.obj",
+	"ambientocclusion": false,
+	"emissiveAmbient": false,
+	"flip_v": true,
+	"shadeQuads": false,
+	"textures": {
+		"plant": "conquest:block/9_organic/3_plants/deergrass",
+		"particle": "conquest:block/9_organic/3_plants/deergrass"
+	}
+}
