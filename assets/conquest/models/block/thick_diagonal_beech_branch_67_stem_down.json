@@ -1,0 +1,12 @@
+{
+    "loader": "porting_lib:obj",
+    "model": "conquest:models/obj/generic_branch/thick_branch_67_stem_down.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "conquest:block/9_organic/1_wood/larch_log",
+        "1": "conquest:block/9_organic/1_wood/larch_log",
+        "2": "conquest:block/9_organic/1_wood/larch_log_branches_4",
+        "3": "conquest:block/9_organic/1_wood/larch_log_branches_5"
+    }
+}
