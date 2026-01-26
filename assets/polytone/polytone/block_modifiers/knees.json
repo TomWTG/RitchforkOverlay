@@ -1,0 +1,12 @@
+{
+    "targets": [
+        "conquest:white_clematis",
+        "conquest:alpine_sow_thistle"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "(POS_Y + 64 + 4 * (rand() - 0.5)) / 384",
+        "biome_id_mapper": "polytone:vanilla_biomes",
+        "biome_blend": true
+    }
+}
