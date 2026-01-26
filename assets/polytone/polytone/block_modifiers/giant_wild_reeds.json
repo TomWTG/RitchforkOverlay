@@ -1,7 +1,6 @@
 {
     "targets": [
-        "conquest:giant_wild_reeds",
-        "conquest:sparse_headed_feathergrass"
+        "conquest:giant_wild_reeds"
     ],
     "colormap": {
         "x_axis": "biome_id",

@@ -1,0 +1,11 @@
+{
+    "targets": [
+        "conquest:sparse_headed_feathergrass"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "0.2+(noise(POS_X/250,POS_Z/200))",
+        "biome_id_mapper": "polytone:vanilla_biomes",
+        "biome_blend": true
+    }
+}
