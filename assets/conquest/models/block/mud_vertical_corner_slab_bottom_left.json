@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/tint/parent_vertical_corner_slab_bottom_left",
+  "textures": {
+    "side": "conquest:block/8_topography/5_dirt/mud"
+  }
+}

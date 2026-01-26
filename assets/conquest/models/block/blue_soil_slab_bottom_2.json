@@ -1,0 +1,6 @@
+{
+    "parent": "conquest:block/templates/tint/parent_slab_bottom_2",
+    "textures": {
+        "texture": "conquest:block/8_topography/5_dirt/blue_soil"
+    }
+}

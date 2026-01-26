@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/tint/parent_vertical_corner_4",
+  "textures": {
+    "side": "conquest:block/8_topography/4_grass_leaves/mossy_lorien_forest_floor"
+  }
+}

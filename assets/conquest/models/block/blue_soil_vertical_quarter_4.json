@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/tint/parent_vertical_quarter_4",
+  "textures": {
+    "side": "conquest:block/8_topography/5_dirt/blue_soil"
+  }
+}

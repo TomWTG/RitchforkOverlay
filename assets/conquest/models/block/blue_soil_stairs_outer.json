@@ -1,0 +1,8 @@
+{
+    "parent": "conquest:block/templates/tint/parent_outer_stairs",
+    "textures": {
+        "bottom": "conquest:block/8_topography/5_dirt/blue_soil",
+        "top": "conquest:block/8_topography/5_dirt/blue_soil",
+        "side": "conquest:block/8_topography/5_dirt/blue_soil"
+    }
+}

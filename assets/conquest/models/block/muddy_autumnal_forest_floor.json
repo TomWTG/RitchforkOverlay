@@ -1,0 +1,6 @@
+{
+    "parent": "conquest:block/templates/tint/parent_block",
+    "textures": {
+        "particle": "conquest:block/8_topography/4_grass_leaves/muddy_autumnal_forest_floor"
+    }
+}

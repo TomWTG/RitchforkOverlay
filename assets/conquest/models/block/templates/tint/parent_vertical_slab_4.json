@@ -1,0 +1,28 @@
+{
+	"__comment": "Designed by Leondonis with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+	"parent": "block/block",
+	"ambientocclusion": true,
+	"textures": {
+		"particle": "#side",
+		"north": "#side",
+		"south": "#side",
+		"east": "#side",
+		"west": "#side",
+		"top": "#side",
+		"bottom": "#side"
+	},
+	"elements": [
+		{
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down":  { "uv": [ 0, 0, 16, 8 ], "texture": "#bottom", "tintindex": 2 },
+				"up":    { "uv": [ 0, 8, 16, 16 ], "texture": "#top", "tintindex": 2 },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#north", "tintindex": 2 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#south", "tintindex": 2 },
+				"west":  { "uv": [ 8, 0, 16, 16 ], "texture": "#west", "tintindex": 2 },
+				"east":  { "uv": [ 0, 0, 8, 16 ], "texture": "#east", "tintindex": 2 }
+			}
+		}
+	]
+}

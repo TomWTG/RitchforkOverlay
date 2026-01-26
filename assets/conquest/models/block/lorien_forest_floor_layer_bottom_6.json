@@ -1,0 +1,6 @@
+{
+    "parent": "conquest:block/templates/tint/parent_slab_bottom_6",
+    "textures": {
+        "texture": "conquest:block/8_topography/4_grass_leaves/lorien_forest_floor"
+    }
+}
