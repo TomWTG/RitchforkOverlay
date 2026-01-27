@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 128],
-	"texture": "niftycarts:textures/entity/hand_cart.png",
 	"models": [
 		{
 			"part": "cartBase",
