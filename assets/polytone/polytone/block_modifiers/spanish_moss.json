@@ -1,0 +1,12 @@
+{
+    "targets": [
+        "conquest:icicles",
+        "conquest:autumnal_weeping_willow_leaves"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "0.4+(noise(POS_X/25,POS_Z/25))",
+        "biome_id_mapper": "polytone:vanilla_biomes",
+        "biome_blend": true
+    }
+}
