@@ -8,5 +8,9 @@
 "block.minecraft.packed_mud": "Light Mud",
 "block.minecraft.mud": "Soaked Mud",
 "block.minecraft.oak_fence_gate": "Simple Picket Fence Side",
-"block.minecraft.pink_tulip": "Water Hyacinth"
+"block.minecraft.pink_tulip": "Water Hyacinth",
+"biome.minecraft.beach":"Saltwater Marsh",
+"biome.minecraft.swamp":"Cypress Tupelo Swamp",
+"biome.minecraft.jungle":"Cypress Tupelo Swamp",
+"biome.minecraft.lukewarm_ocean":"Saltwater Marsh - Transition"
 }
