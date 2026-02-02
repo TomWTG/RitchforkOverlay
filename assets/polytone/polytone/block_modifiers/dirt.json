@@ -56,8 +56,8 @@
         "conquest:lorien_forest_floor_layer",
         "conquest:lorien_forest_floor_stairs",
         "conquest:lorien_forest_floor_vertical_slab",
-        "conquest:lorien_forest_floor_vertical_quarter",
-        "conquest:lorien_forest_floor_vertical_corner"
+        "conquest:lorien_forest_floor_vertical_corner",
+        "conquest:lorien_forest_floor_vertical_quarter"
     ],
     "colormap": {
         "x_axis": "biome_id",
