@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_diagonal_lintel_top1",
+  "textures": {
+    "end": "minecraft:block/stripped_bamboo_block_top",
+    "side": "minecraft:block/stripped_bamboo_block"
+  }
+}

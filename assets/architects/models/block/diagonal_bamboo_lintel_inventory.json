@@ -1,0 +1,7 @@
+{
+  "parent": "architects:block/diagonal_lintel_inventory",
+  "textures": {
+    "end": "architects:block/steel_plating",
+    "side": "architects:block/steel_plating"
+  }
+}
