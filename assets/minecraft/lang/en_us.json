@@ -1,16 +1,47 @@
 {   
-"block.minecraft.prismarine_bricks":"Dark Brown Clay Bricks",
-"block.minecraft.bricks" : "Brown Clay Bricks",
-"block.minecraft.polished_blackstone_bricks":"Pale Brown Clay Bricks",
-"block.minecraft.dark_prismarine":"Mossy Dark Brown Clay Bricks",
-"block.minecraft.mangrove_planks": "Horizontal White Painted Planks",
-"block.minecraft.stripped_bamboo_block": "White Painted Vertical Planks",
-"block.minecraft.packed_mud": "Light Mud",
-"block.minecraft.mud": "Soaked Mud",
-"block.minecraft.oak_fence_gate": "Simple Picket Fence Side",
-"block.minecraft.pink_tulip": "Water Hyacinth",
-"biome.minecraft.beach":"Saltwater Marsh",
-"biome.minecraft.swamp":"Cypress Tupelo Swamp",
-"biome.minecraft.jungle":"Cypress Tupelo Swamp",
-"biome.minecraft.lukewarm_ocean":"Saltwater Marsh - Transition"
+  "block.minecraft.prismarine_bricks":"Dark Brown Clay Bricks",
+  "block.minecraft.bricks" : "Brown Clay Bricks",
+  "block.minecraft.polished_blackstone_bricks":"Pale Brown Clay Bricks",
+  "block.minecraft.dark_prismarine":"Mossy Dark Brown Clay Bricks",
+  "block.minecraft.mangrove_planks": "Horizontal White Painted Planks",
+  "block.minecraft.stripped_bamboo_block": "White Painted Vertical Planks",
+  "block.minecraft.packed_mud": "Light Mud",
+  "block.minecraft.mud": "Soaked Mud",
+  "block.minecraft.oak_fence_gate": "Simple Picket Fence Side",
+  "block.minecraft.pink_tulip": "Water Hyacinth",
+  "biome.minecraft.beach":"Saltwater Marsh",
+  "biome.minecraft.swamp":"Cypress Tupelo Swamp",
+  "biome.minecraft.jungle":"Cypress Tupelo Swamp",
+  "biome.minecraft.lukewarm_ocean":"Saltwater Marsh - Transition",
+
+  "block.minecraft.bamboo_planks": "Horizontal Blue Painted Plank Planks",
+  "block.minecraft.bamboo_pressure_plate": "Horizontal Blue Painted Plank Pressure Plate",
+  "block.minecraft.bamboo_sapling": "Horizontal Blue Painted Plank Shoot",
+  "block.minecraft.bamboo_sign": "Horizontal Blue Painted Plank Sign",
+  "block.minecraft.bamboo_slab": "Horizontal Blue Painted Plank Slab",
+  "block.minecraft.bamboo_stairs": "Horizontal Blue Painted Plank Stairs",
+  "block.minecraft.bamboo_trapdoor": "Horizontal Blue Painted Plank Trapdoor",
+  "block.minecraft.bamboo_wall_hanging_sign": "Horizontal Blue Painted Plank Wall Hanging Sign",
+  "block.minecraft.bamboo_wall_sign": "Horizontal Blue Painted Plank Wall Sign",
+
+  "block.minecraft.bamboo_button": "Chipped Horizontal Blue Painted Plank Button",
+  "block.minecraft.bamboo_door": "Chipped Horizontal Blue Painted Plank Door",
+  "block.minecraft.bamboo_fence": "Chipped Horizontal Blue Painted Plank Fence",
+  "block.minecraft.bamboo_fence_gate": "Chipped Horizontal Blue Painted Plank Fence Gate",
+  "block.minecraft.bamboo_hanging_sign": "Chipped Horizontal Blue Painted Plank Hanging Sign",
+  "block.minecraft.bamboo_mosaic": "Chipped Horizontal Blue Painted Planks",
+  "block.minecraft.bamboo_mosaic_slab": "Chipped Horizontal Blue Painted Plank Mosaic Slab",
+  "block.minecraft.bamboo_mosaic_stairs": "Chipped Horizontal Blue Painted Plank Mosaic Stairs",
+
+
+  "block.minecraft.jungle_planks": "Worn Horizontal Blue Painted Plank",
+  "block.minecraft.jungle_pressure_plate": "Worn Horizontal Blue Painted Plank Pressure Plate",
+  "block.minecraft.jungle_stairs": "Worn Horizontal Blue Painted Plank Stairs",
+
+
+  "block.minecraft.acacia_planks": "Worn Vertical Orange Painted Planks",
+  "block.minecraft.acacia_pressure_plate": "Worn Vertical Orange Painted Pressure Plate",
+  "block.minecraft.acacia_stairs": "Worn Vertical Orange Painted Plank Stairs"
+
+
 }
