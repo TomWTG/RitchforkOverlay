@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "toggle=1": [
+      {"model": "conquest:block/algae_1"},
+      {"model": "conquest:block/algae_2"},
+      {"model": "conquest:block/algae_3"},
+      {"model": "conquest:block/algae_4"}
+    ],
+    "toggle=2": [
+      {"model": "conquest:block/algae_sparse_1"},
+      {"model": "conquest:block/algae_sparse_2"},
+      {"model": "conquest:block/algae_sparse_3"},
+      {"model": "conquest:block/algae_sparse_4"}
+    ]
+  }
+}

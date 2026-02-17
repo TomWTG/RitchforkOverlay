@@ -1,0 +1,16 @@
+{
+	"textures": {
+		"particle": "conquest:block/9_organic/3_plants/algae"
+	},
+	"elements": [
+		{
+			"from": [-8, -2.1, -8],
+			"to": [24, -2.1, 24],
+			"rotation": {"x": 0.25, "y": 0, "z": 0.75, "origin": [8, -2.5, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#particle"}
+			}
+		}
+	]
+}

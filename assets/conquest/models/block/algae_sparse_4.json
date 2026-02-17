@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/algae_4",
+	"textures": {
+		"particle": "conquest:block/9_organic/3_plants/algae_sparse"
+	}
+}
