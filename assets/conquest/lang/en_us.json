@@ -1327,5 +1327,13 @@
   "block.conquest.rough_palm_wood_plank_vertical_corner_slab": "Worn Horizontal Blue Painted Plank Vertical Corner Slab",
   "block.conquest.rough_palm_wood_plank_vertical_quarter": "Worn Horizontal Blue Painted Plank Vertical Quarter",
   "block.conquest.rough_palm_wood_plank_vertical_slab": "Worn Horizontal Blue Painted Plank Vertical Slab",
-  "block.conquest.rough_palm_wood_plank_wall": "Worn Horizontal Blue Painted Plank Wall"
+  "block.conquest.rough_palm_wood_plank_wall": "Worn Horizontal Blue Painted Plank Wall",
+
+
+  "block.conquest.dark_sandstone_cornice_model": "Simple Marble Window Arch",
+  "block.conquest.dark_sandstone_cornice_model_corner": "Simple Marble Window Arch (offset)",
+  "block.conquest.dark_sandstone_cornice_model_quarter": "Dormer Window Pyramid Roof (test)",
+
+   "block.conquest.portcullis_groove_slab": "Flipped Marble Plinth Slab",
+   "block.conquest.blue_marble_frieze_slab": "Flipped Marble Plinth Slab (offset)"
 }

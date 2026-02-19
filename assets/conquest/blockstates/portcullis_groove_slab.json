@@ -1,0 +1,7 @@
+{"variants":
+  {"type\u003dbottom":
+      {"model":"conquest:block/flipped_marble_plinth","uvlock":true},
+    "type\u003dtop":
+      {"model":"conquest:block/flipped_marble_plinth_bottom","uvlock":true}
+  }
+}

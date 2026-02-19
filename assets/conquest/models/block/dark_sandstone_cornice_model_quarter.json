@@ -1,0 +1,12 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/dormer_top.obj",
+	"emissive_ambient": true,
+	"flip-v": true,
+	"parent": "block/block",
+	"textures": {
+		"particle": "conquest:block/dormer_marble",
+		"texture1": "conquest:block/dormer_marble",
+		"texture2": "conquest:block/dormer_roof"
+	}
+}
