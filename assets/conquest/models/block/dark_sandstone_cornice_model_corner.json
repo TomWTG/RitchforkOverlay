@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/quartz_bricks",
-		"texture": "block/quartz_bricks"
+		"particle": "block/quartz_block_top",
+		"texture": "block/quartz_block_top"
 	},
 	"elements": [
 		{
