@@ -1,4 +1,6 @@
 {
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "conquest:block/9_organic/3_plants/algae"
 	},
