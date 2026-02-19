@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/chandelier",
+	"textures": {
+		"wick": "block/candle_lit"
+	}
+}
