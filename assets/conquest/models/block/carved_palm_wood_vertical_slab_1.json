@@ -1,0 +1,8 @@
+{
+  "parent": "conquest:block/templates/parent_vertical_slab_1",
+  "textures": {
+    "bottom": "minecraft:block/palm_planks",
+    "side": "conquest:block/2_advanced_refined/7_wood/carved_palm_wood",
+    "top": "minecraft:block/palm_planks"
+  }
+}
