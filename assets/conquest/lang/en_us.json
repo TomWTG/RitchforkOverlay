@@ -958,7 +958,6 @@
   "block.conquest.weathered_light_red_painted_plank_wall": "Chipped Horizontal Red Painted Plank Wall",
   "block.conquest.weathered_light_red_painted_planks": "Chipped Horizontal Red Painted Planks",
 
-    "block.conquest.red_acacia_plank_step_stairs": "Worn Horizontal Red Painted Step Stairs",
   "block.conquest.red_acacia_wood_plank_balustrade": "Worn Horizontal Red Painted Plank Balustrade",
   "block.conquest.red_acacia_wood_plank_boards": "Worn Horizontal Red Painted Plank Boards",
   "block.conquest.red_acacia_wood_plank_capital": "Worn Horizontal Red Painted Plank Capital",
@@ -1334,6 +1333,8 @@
   "block.conquest.dark_sandstone_cornice_model_corner": "Simple Marble Window Arch (offset)",
   "block.conquest.dark_sandstone_cornice_model_quarter": "Dormer Window Pyramid Roof (test)",
 
-   "block.conquest.portcullis_groove_slab": "Flipped Marble Plinth Slab",
-   "block.conquest.iron_artillery_block_slab_directional": "Flipped Marble Plinth Slab (offset)"
+  "block.conquest.portcullis_groove_slab": "Flipped Marble Plinth Slab",
+  "block.conquest.iron_artillery_block_slab_directional": "Flipped Marble Plinth Slab (offset)",
+  "block.conquest.red_acacia_plank_step_stairs": "Spruce Plank Stairs with Risers"
+
 }
