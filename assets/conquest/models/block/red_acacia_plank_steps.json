@@ -3,7 +3,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"1": "conquest:block/1_basic_refined/3_wood/spruce_stairs"
+		"1": "conquest:block/1_basic_refined/3_wood/spruce_stairs",
+		"particle": "conquest:block/1_basic_refined/3_wood/spruce_stairs"
+	
 	},
 	"elements": [
 		{

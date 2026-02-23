@@ -2,7 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"side": "conquest:block/1_basic_refined/3_wood/spruce_stairs"
+		"side": "conquest:block/1_basic_refined/3_wood/spruce_stairs",
+		"particle": "conquest:block/1_basic_refined/3_wood/spruce_stairs"
+	
 	},
 	"elements": [
 		{
