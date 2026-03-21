@@ -1,0 +1,12 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/window_arch.obj",
+	"emissive_ambient": true,
+	"flip-v": true,
+	"parent": "block/block",
+	"textures": {
+		"particle": "conquest:block/white_window_arch",
+		"arch": "conquest:block/white_window_arch",
+		"frame": "conquest:block/white_window_frame"
+	}
+}

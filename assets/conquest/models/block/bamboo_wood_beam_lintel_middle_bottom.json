@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "conquest:block/white_window_frame",
+		"side": "conquest:block/white_window_frame"
+	},
+	"elements": [
+		{
+			"from": [-0.01, 13.01, 23.49],
+			"to": [16.01, 16.01, 32.51],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.5, 21, 15.5]},
+			"faces": {
+				"north": {"uv": [10, 0, 13, 16], "rotation": 90, "texture": "#side"},
+				"east": {"uv": [8, 0, 0, 3], "texture": "#side"},
+				"south": {"uv": [10, 0, 13, 16], "rotation": 90, "texture": "#side"},
+				"west": {"uv": [8, 0, 0, 3], "texture": "#side"},
+				"up": {"uv": [0, 0, 8, 16], "rotation": 270, "texture": "#side"},
+				"down": {"uv": [0, 0, 8, 16], "rotation": 90, "texture": "#side"}
+			}
+		}
+	]
+}
