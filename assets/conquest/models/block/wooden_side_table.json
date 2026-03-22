@@ -13,7 +13,6 @@
 			"name": "top",
 			"from": [0, 14, 3.5],
 			"to": [16, 16, 16],
-			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 14, 4]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 2], "texture": "#front"},
@@ -28,7 +27,6 @@
 			"name": "drawer",
 			"from": [1, 10, 5],
 			"to": [15, 14, 15],
-			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 10.5, 4.5]},
 			"faces": {
 				"north": {"uv": [2, 0, 16, 4], "texture": "#extra"},
@@ -42,7 +40,6 @@
 			"name": "shelf",
 			"from": [1.5, 1.5, 5],
 			"to": [14.5, 2.5, 15],
-			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 1.5, 4.5]},
 			"faces": {
 				"north": {"uv": [3, 14, 16, 15], "texture": "#extra"},
@@ -57,7 +54,6 @@
 			"name": "legs-ns",
 			"from": [0.5, 0, 14],
 			"to": [15.5, 14, 6],
-			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 14]},
 			"faces": {
 				"north": {"uv": [0.5, 2, 15.5, 16], "texture": "#front"},
@@ -68,7 +64,6 @@
 			"name": "legs-ew",
 			"from": [14, 0, 4.5],
 			"to": [2, 14, 15.5],
-			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 14]},
 			"faces": {
 				"east": {"uv": [5, 2, 16, 16], "texture": "#side"},
@@ -79,7 +74,6 @@
 			"name": "legs-outer",
 			"from": [0.5, 0, 4.5],
 			"to": [15.5, 14, 15.5],
-			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 14]},
 			"faces": {
 				"north": {"uv": [0.5, 2, 15.5, 16], "texture": "#front"},
