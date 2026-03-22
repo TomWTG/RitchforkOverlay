@@ -1,10 +1,10 @@
-
 {
   "block.believemod.dwarf_palmetto": "Dwarf Palmetto",
   "block.believemod.dry_dwarf_palmetto": "Small Dwarf Palmetto",
   "block.believemod.red_curtains": "Red Curtains",
   "block.believemod.purple_curtains": "White Curtains",
-  "block.believemod.blue_curtains": "Cream Curtains"
-
-
+  "block.believemod.blue_curtains": "Cream Curtains",
+  "block.believemod.white_limestone_railing": "Fancy White Railing",
+  "block.believemod.white_limestone_corner_railing": "Fancy White Railing Corner",
+  "block.believemod.diagonal_white_limestone_railing": "Diagonal Fancy White Railing"
 }

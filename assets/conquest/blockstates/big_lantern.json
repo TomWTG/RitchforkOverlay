@@ -1,8 +1,8 @@
 {
     "variants": {
-        "light=0": { "model": "conquest:block/chandelier" },
-        "light=1": { "model": "conquest:block/chandelier_lit" },
-        "light=2": { "model": "conquest:block/chandelier_lit" },
-        "light=3": { "model": "conquest:block/chandelier_lit" }
+        "light=0": { "model": "conquest:block/bronze_chandelier" },
+        "light=1": { "model": "conquest:block/bronze_chandelier_lit" },
+        "light=2": { "model": "conquest:block/bronze_chandelier_lit" },
+        "light=3": { "model": "conquest:block/bronze_chandelier_lit" }
     }
 }
