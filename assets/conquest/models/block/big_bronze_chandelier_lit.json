@@ -1,5 +1,5 @@
 {
-	"parent": "conquest:block/big_chandelier",
+	"parent": "conquest:block/big_bronze_chandelier",
 	"textures": {
 		"wick": "block/candle_lit"
 	}
