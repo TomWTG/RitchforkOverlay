@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "believemod:block/nature/stone/white_limestone/white_limestone_railing", "y": 270 },
+        "facing=south": { "model": "believemod:block/nature/stone/white_limestone/white_limestone_railing", "y": 90 },
+        "facing=east": { "model": "believemod:block/nature/stone/white_limestone/white_limestone_railing" },
+        "facing=west": { "model": "believemod:block/nature/stone/white_limestone/white_limestone_railing", "y": 180 }
+    }
+}

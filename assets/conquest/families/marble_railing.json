@@ -1,0 +1,7 @@
+{
+  "parent_block": "believemod:white_limestone_railing",
+  "family_blocks": [
+    "believemod:white_limestone_corner_railing",
+    "believemod:diagonal_white_limestone_railing"
+  ]
+}

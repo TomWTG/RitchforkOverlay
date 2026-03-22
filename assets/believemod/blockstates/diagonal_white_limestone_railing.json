@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north,left=true,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left", "y": 90},
+    "facing=north,left=false,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right", "y": 270},
+
+    "facing=east,left=true,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left", "y": 180},
+    "facing=east,left=false,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right"},
+
+    "facing=south,left=true,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left", "y": 270},
+    "facing=south,left=false,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right", "y": 90},
+
+    "facing=west,left=true,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left"},
+    "facing=west,left=false,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right", "y": 180},
+
+    "facing=north,left=false,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left_top", "y": 90},
+    "facing=north,left=true,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right_top", "y": 270},
+
+    "facing=east,left=false,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left_top", "y": 180},
+    "facing=east,left=true,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right_top"},
+
+    "facing=south,left=false,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left_top", "y": 270},
+    "facing=south,left=true,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right_top", "y": 90},
+
+    "facing=west,left=false,right=false": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_left_top"},
+    "facing=west,left=true,right=true": {"model": "believemod:block/nature/stone/white_limestone/diagonal_white_limestone_railing_right_top", "y": 180}
+  }
+}
