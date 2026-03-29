@@ -1,6 +1,6 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "Made by xone",
+	"parent": "block/block",
 	"textures": {
 		"particle": "conquest:block/white_window_frame",
 		"side": "conquest:block/white_window_frame"
@@ -65,5 +65,12 @@
 				"down": {"uv": [0, 0, 8, 3], "rotation": 90, "texture": "#side"}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [8.75, -8.5, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
 }

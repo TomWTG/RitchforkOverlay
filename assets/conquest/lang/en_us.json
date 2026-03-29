@@ -278,24 +278,6 @@
   "block.conquest.white_clematis_vine": "Spanish Moss Vine",
   "block.conquest.commercial_amphora": "Fence on the Side",
   "block.conquest.hay_bundle": "Fence at the Center",
-  "block.conquest.bamboo_wood_beam_beam_board": "White Painted Vertical Plank Beam Board",
-  "block.conquest.bamboo_wood_beam_corner_slab": "White Painted Vertical Plank Corner Slab",
-  "block.conquest.bamboo_wood_beam_door_frame_lintel": "White Painted Vertical Plank Door Frame Lintel",
-  "block.conquest.bamboo_wood_beam_door_frame_posts": "White Painted Vertical Plank Door Frame Posts",
-  "block.conquest.bamboo_wood_beam_eighth_slab": "White Painted Vertical Plank Eighth Slab",
-  "block.conquest.bamboo_wood_beam_horizontal": "White Painted Vertical Plank Horizontal",
-  "block.conquest.bamboo_wood_beam_lintel": "White Painted Vertical Plank Lintel",
-  "block.conquest.bamboo_wood_beam_pillar": "White Painted Vertical Plank Pillar",
-  "block.conquest.bamboo_wood_beam_posts": "White Painted Vertical Plank Posts",
-  "block.conquest.bamboo_wood_beam_quarter_slab": "White Painted Vertical Plank Quarter Slab",
-  "block.conquest.bamboo_wood_beam_slab": "White Painted Vertical Plank Slab",
-  "block.conquest.bamboo_wood_beam_stairs": "White Painted Vertical Plank Stairs",
-  "block.conquest.bamboo_wood_beam_vertical": "White Painted Vertical Plank Vertical",
-  "block.conquest.bamboo_wood_beam_vertical_corner": "White Painted Vertical Plank Vertical Corner",
-  "block.conquest.bamboo_wood_beam_vertical_corner_slab": "White Painted Vertical Plank Vertical Corner Slab",
-  "block.conquest.bamboo_wood_beam_vertical_quarter": "White Painted Vertical Plank Vertical Quarter",
-  "block.conquest.bamboo_wood_beam_vertical_slab": "White Painted Vertical Plank Vertical Slab",
-  "block.conquest.bamboo_wood_beam_wall": "White Painted Vertical Plank Wall",
 
   "block.conquest.small_marble_and_sandstone_plinth": "Electrical Pole",
   "block.conquest.smooth_red_granite": "Red Corrugated Metal",
@@ -1332,11 +1314,15 @@
 
 
   "block.conquest.dark_sandstone_cornice_model": "Simple Marble Window Arch",
-  "block.conquest.dark_sandstone_cornice_model_corner": "Simple Marble Window Arch (offset)",
+
+  "block.conquest.dark_sandstone_cornice_model_corner": "Simple White Window Arch (Offset)",
+  "block.conquest.bamboo_wood_beam_posts": "Simple White Window Posts (Offset)",
+  "block.conquest.bamboo_wood_beam_lintel": "Simple White Window Lintel (Offset)",
+
   "block.conquest.dark_sandstone_cornice_model_quarter": "Dormer Window Pyramid Roof (test)",
 
   "block.conquest.portcullis_groove_slab": "Flipped Marble Plinth Slab",
-  "block.conquest.iron_artillery_block_slab_directional": "Flipped Marble Plinth Slab (offset)",
+  "block.conquest.iron_artillery_block_slab_directional": "Flipped Marble Plinth Slab (Offset)",
   "block.conquest.red_acacia_plank_step_stairs": "Spruce Plank Stairs with Risers"
 
 }

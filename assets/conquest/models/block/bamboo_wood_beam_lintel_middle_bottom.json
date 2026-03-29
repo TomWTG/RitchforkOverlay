@@ -1,6 +1,5 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "Made by xone",
 	"textures": {
 		"particle": "conquest:block/white_window_frame",
 		"side": "conquest:block/white_window_frame"
