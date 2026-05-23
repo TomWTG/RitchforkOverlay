@@ -1,0 +1,6 @@
+{
+  "parent": "conquest:block/templates/parent_boards_vertical_long_wide",
+  "textures": {
+    "side": "conquest:block/8_topography/1_stone/rough_carved_limestone"
+  }
+}
