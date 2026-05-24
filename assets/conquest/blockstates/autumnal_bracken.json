@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            {"model": "conquest:block/bulltongue_arrowhead"},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 45},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 90},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 135},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 180},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 225},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 270},
+            {"model": "conquest:block/bulltongue_arrowhead", "y": 315}
+        ]
+    }
+}
