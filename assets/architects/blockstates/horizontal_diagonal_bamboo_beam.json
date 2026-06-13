@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "half=bottom,facing=east,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "y": 90,
+      "yoffset": -3
+    },
+    "half=bottom,facing=east,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "y": 90,
+      "yoffset": -3
+    },
+    "half=bottom,facing=north,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "yoffset": -3
+    },
+    "half=bottom,facing=north,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "yoffset": -3
+    },
+    "half=bottom,facing=south,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "y": 180,
+      "yoffset": -3
+    },
+    "half=bottom,facing=south,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "y": 180,
+      "yoffset": -3
+    },
+    "half=bottom,facing=west,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "y": 270,
+      "yoffset": -3
+    },
+    "half=bottom,facing=west,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "y": 270,
+      "yoffset": -3
+    },
+    "half=top,facing=east,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "y": 90
+    },
+    "half=top,facing=east,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "y": 90
+    },
+    "half=top,facing=north,toggle=false": {
+      "model": "architects:block/diagonal_girder_1"
+    },
+    "half=top,facing=north,toggle=true": {
+      "model": "architects:block/diagonal_girder_2"
+    },
+    "half=top,facing=south,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "y": 180
+    },
+    "half=top,facing=south,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "y": 180
+    },
+    "half=top,facing=west,toggle=false": {
+      "model": "architects:block/diagonal_girder_1",
+      "y": 270
+    },
+    "half=top,facing=west,toggle=true": {
+      "model": "architects:block/diagonal_girder_2",
+      "y": 270
+    }
+  }
+}
