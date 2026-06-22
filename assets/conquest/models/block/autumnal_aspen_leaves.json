@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/parent_leaves_overlay_no_shade",
+	"textures": {
+		"leaves_1": "conquest:block/9_organic/2_leaves/autumnal_aspen_leaves_1",
+		"overlay": "conquest:block/9_organic/2_leaves/autumnal_aspen_leaves_1_overlay"
+	}
+}
