@@ -1,0 +1,66 @@
+{
+	"format_version": "1.21.11",
+	"credit": "xone",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "conquest:block/beautyberries"
+	},
+	"elements": [
+		{
+			"from": [-8, -8, 8],
+			"to": [24, 24, 8],
+			"shade": false,
+			"rotation": {"x": -40, "y": 20, "z": 0, "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [-8, -8, 8],
+			"to": [24, 24, 8],
+			"shade": false,
+			"rotation": {"x": -100, "y": 70, "z": -140, "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#particle"}
+			}
+		},
+		{
+			"from": [-8, -8, 8],
+			"to": [24, 24, 8],
+			"shade": false,
+			"rotation": {"x": 40, "y": -10, "z": -10, "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#particle"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 0.5, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 0.5, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -135, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [100, 0, 0],
+			"translation": [-0.5, 0, 0]
+		}
+	}
+}
