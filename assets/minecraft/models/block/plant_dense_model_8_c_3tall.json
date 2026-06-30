@@ -3,7 +3,7 @@
 	"credit": "xone",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "#bottom",
+		"particle": "#texture",
 		"texture": "#bottom"
 	},
 	"elements": [
