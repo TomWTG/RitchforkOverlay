@@ -1,0 +1,7 @@
+{
+    "parent": "block/plant_dense_model_8_c_2tall",
+    "textures": {
+        "texture": "conquest:block/9_organic/3_plants/white_clematis_bottom",
+        "top": "conquest:block/9_organic/3_plants/white_clematis_top"
+    }
+}
