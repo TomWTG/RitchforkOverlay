@@ -1326,6 +1326,13 @@
   "block.conquest.iron_artillery_block_slab_directional": "Flipped Marble Plinth Slab (Offset)",
   "block.conquest.red_acacia_plank_step_stairs": "Spruce Plank Stairs with Risers",
   "block.conquest.autumnal_aspen_ground_leaves": "Virginia Sweetspire Ground Leaves",
-  "block.conquest.autumnal_aspen_leaves": "Virginia Sweetspire Leaves"
+  "block.conquest.autumnal_aspen_leaves": "Virginia Sweetspire Leaves",
+  "block.conquest.bronze_lattice_pane": "Iron Spike Pane",
+  "block.conquest.bronze_lattice_vertical_corner": "Iron Spike Vertical Corner",
+  "block.conquest.bronze_lattice_vertical_slab": "Iron Spike Vertical Slab",
+  "block.conquest.wrought_iron_fence_pane": "White Painted Iron Fence Pane",
+  "block.conquest.wrought_iron_fence_vertical_corner": "White Painted Iron Fence Vertical Corner",
+  "block.conquest.wrought_iron_fence_vertical_slab": "White Painted Iron Fence Vertical Slab",
+  "block.conquest.iron_pala_spade": "Horizontal Cypress Knees"
 
 }
