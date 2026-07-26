@@ -1,7 +1,0 @@
-{
-  "parent": "architects:template/template_horizontal_diagonal_beam_bottom_left1",
-  "textures": {
-    "end": "conquest:block/1_basic_refined/3_wood/mallorn_wood_beam_top",
-    "side": "conquest:block/1_basic_refined/3_wood/mallorn_wood_beam"
-  }
-}
