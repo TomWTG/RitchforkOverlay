@@ -1,7 +1,0 @@
-{
-  "parent": "architects:template/template_diagonal_beam_corner",
-  "textures": {
-    "end": "conquest:block/2_advanced_refined/2_metal/rusted_white_painted_metal_plating",
-    "side": "conquest:block/2_advanced_refined/2_metal/rusted_white_painted_metal_plating"
-  }
-}
