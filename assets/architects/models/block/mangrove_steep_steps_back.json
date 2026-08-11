@@ -1,0 +1,7 @@
+{
+  "parent": "architects:template/template_steep_steps_back_type2",
+  "textures": {
+    "side": "architects:block/steep_steps/mangrove_steep_steps_side",
+    "top": "architects:block/steep_steps/mangrove_steep_steps_top"
+  }
+}
