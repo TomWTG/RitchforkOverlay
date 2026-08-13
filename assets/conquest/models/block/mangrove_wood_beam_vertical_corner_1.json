@@ -1,6 +1,0 @@
-{
-  "parent": "conquest:block/templates/parent_vertical_corner_1",
-  "textures": {
-    "side": "conquest:block/2_advanced_refined/2_metal/rusted_white_painted_metal_plating"
-  }
-}
