@@ -1333,6 +1333,47 @@
   "block.conquest.wrought_iron_fence_pane": "White Painted Iron Fence Pane",
   "block.conquest.wrought_iron_fence_vertical_corner": "White Painted Iron Fence Vertical Corner",
   "block.conquest.wrought_iron_fence_vertical_slab": "White Painted Iron Fence Vertical Slab",
-  "block.conquest.iron_pala_spade": "Horizontal Cypress Knees"
+  "block.conquest.iron_pala_spade": "Horizontal Cypress Knees",
+
+  "block.conquest.light_blue_clay_beaver_tail_tiles": "Overgrown Gray Diamond Clay Shingles",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_capital": "Overgrown Gray Diamond Clay Shingles Capital",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_corner_slab": "Overgrown Gray Diamond Clay Shingles Corner Slab",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_eighth_slab": "Overgrown Gray Diamond Clay Shingles Eighth Slab",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_pillar": "Overgrown Gray Diamond Clay Shingles Pillar",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_quarter_slab": "Overgrown Gray Diamond Clay Shingles Quarter Slab",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_slab": "Overgrown Gray Diamond Clay Shingles Slab",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_stairs": "Overgrown Gray Diamond Clay Shingles Stairs",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_vertical_corner": "Overgrown Gray Diamond Clay Shingles Vertical Corner",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_vertical_corner_slab": "Overgrown Gray Diamond Clay Shingles Vertical Corner Slab",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_vertical_quarter": "Overgrown Gray Diamond Clay Shingles Vertical Quarter",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_vertical_slab": "Overgrown Gray Diamond Clay Shingles Vertical Slab",
+  "block.conquest.light_blue_clay_beaver_tail_tiles_wall": "Overgrown Gray Diamond Clay Shingles Wall",
+
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_capital": "Gray Diamond Clay Shingles Capital",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_corner_slab": "Gray Diamond Clay Shingles Corner Slab",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_eighth_slab": "Gray Diamond Clay Shingles Eighth Slab",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_pillar": "Gray Diamond Clay Shingles Pillar",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_quarter_slab": "Gray Diamond Clay Shingles Quarter Slab",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_slab": "Gray Diamond Clay Shingles Slab",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_stairs": "Gray Diamond Clay Shingles Stairs",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_vertical_corner": "Gray Diamond Clay Shingles Vertical Corner",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_vertical_corner_slab": "Gray Diamond Clay Shingles Vertical Corner Slab",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_vertical_quarter": "Gray Diamond Clay Shingles Vertical Quarter",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_vertical_slab": "Gray Diamond Clay Shingles Vertical Slab",
+  "block.conquest.dirty_blue_clay_beaver_tail_tile_wall": "Gray Diamond Clay Shingles Wall",
+
+
+  "block.conquest.blue_clay_beaver_tail_tile_capital": "Dirty Gray Diamond Clay Shingles Capital",
+  "block.conquest.blue_clay_beaver_tail_tile_corner_slab": "Dirty Gray Diamond Clay Shingles Corner Slab",
+  "block.conquest.blue_clay_beaver_tail_tile_eighth_slab": "Dirty Gray Diamond Clay Shingles Eighth Slab",
+  "block.conquest.blue_clay_beaver_tail_tile_pillar": "Dirty Gray Diamond Clay Shingles Pillar",
+  "block.conquest.blue_clay_beaver_tail_tile_quarter_slab": "Dirty Gray Diamond Clay Shingles Quarter Slab",
+  "block.conquest.blue_clay_beaver_tail_tile_slab": "Dirty Gray Diamond Clay Shingles Slab",
+  "block.conquest.blue_clay_beaver_tail_tile_stairs": "Dirty Gray Diamond Clay Shingles Stairs",
+  "block.conquest.blue_clay_beaver_tail_tile_vertical_corner": "Dirty Gray Diamond Clay Shingles Vertical Corner",
+  "block.conquest.blue_clay_beaver_tail_tile_vertical_corner_slab": "Dirty Gray Diamond Clay Shingles Vertical Corner Slab",
+  "block.conquest.blue_clay_beaver_tail_tile_vertical_quarter": "Dirty Gray Diamond Clay Shingles Vertical Quarter",
+  "block.conquest.blue_clay_beaver_tail_tile_vertical_slab": "Dirty Gray Diamond Clay Shingles Vertical Slab",
+  "block.conquest.blue_clay_beaver_tail_tile_wall": "Dirty Gray Diamond Clay Shingles Wall"
 
 }
