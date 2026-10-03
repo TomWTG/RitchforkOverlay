@@ -1374,6 +1374,9 @@
   "block.conquest.blue_clay_beaver_tail_tile_vertical_corner_slab": "Dirty Gray Diamond Clay Shingles Vertical Corner Slab",
   "block.conquest.blue_clay_beaver_tail_tile_vertical_quarter": "Dirty Gray Diamond Clay Shingles Vertical Quarter",
   "block.conquest.blue_clay_beaver_tail_tile_vertical_slab": "Dirty Gray Diamond Clay Shingles Vertical Slab",
-  "block.conquest.blue_clay_beaver_tail_tile_wall": "Dirty Gray Diamond Clay Shingles Wall"
+  "block.conquest.blue_clay_beaver_tail_tile_wall": "Dirty Gray Diamond Clay Shingles Wall",
+
+  "block.conquest.obsidian_rocks": "Overgrown Fallen Diamond Clay Shingles"
+
 
 }

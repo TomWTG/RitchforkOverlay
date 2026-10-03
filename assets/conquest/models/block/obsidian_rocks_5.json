@@ -1,0 +1,6 @@
+{
+	"parent":"conquest:block/templates/parent_rocks_5",
+	"textures":{
+		"texture":"conquest:block/1_basic_refined/2_roof/1_clay/light_blue_clay_beaver_tail_tiles"
+	}
+}
