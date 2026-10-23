@@ -1563,7 +1563,27 @@
   "block.conquest.rose_plaster_vertical_corner_slab": "Destroyed White Plaster Vertical Corner Slab",
   "block.conquest.rose_plaster_vertical_quarter": "Destroyed White Plaster Vertical Quarter",
   "block.conquest.rose_plaster_vertical_slab": "Destroyed White Plaster Vertical Slab",
-  "block.conquest.rose_plaster_wall": "Destroyed White Plaster Wall"
+  "block.conquest.rose_plaster_wall": "Destroyed White Plaster Wall",
+
+  "block.conquest.yellow_mudstone_corner_slab": "Horse Chestnut Wood planks with Crumbled Plaster Corner Slab",
+  "block.conquest.yellow_mudstone_eighth_slab": "Horse Chestnut Wood planks with Crumbled Plaster Eighth Slab",
+  "block.conquest.yellow_mudstone_quarter_slab": "Horse Chestnut Wood planks with Crumbled Plaster Quarter Slab",
+  "block.conquest.yellow_mudstone_slab": "Horse Chestnut Wood planks with Crumbled Plaster Slab",
+  "block.conquest.yellow_mudstone_stairs": "Horse Chestnut Wood planks with Crumbled Plaster Stairs",
+  "block.conquest.yellow_mudstone_vertical_corner": "Horse Chestnut Wood planks with Crumbled Plaster Vertical Corner",
+  "block.conquest.yellow_mudstone_vertical_corner_slab": "Horse Chestnut Wood planks with Crumbled Plaster Vertical Corner Slab",
+  "block.conquest.yellow_mudstone_vertical_quarter": "Horse Chestnut Wood planks with Crumbled Plaster Vertical Quarter",
+  "block.conquest.yellow_mudstone_vertical_slab": "Horse Chestnut Wood planks with Crumbled Plaster Vertical Slab",
+
+    "block.conquest.brown_mudstone_corner_slab": "Spruce Platform with Crumbled Plaster Corner Slab",
+  "block.conquest.brown_mudstone_eighth_slab": "Spruce Platform with Crumbled Plaster Eighth Slab",
+  "block.conquest.brown_mudstone_quarter_slab": "Spruce Platform with Crumbled Plaster Quarter Slab",
+  "block.conquest.brown_mudstone_slab": "Spruce Platform with Crumbled Plaster Slab",
+  "block.conquest.brown_mudstone_stairs": "Spruce Platform with Crumbled Plaster Stairs",
+  "block.conquest.brown_mudstone_vertical_corner": "Spruce Platform with Crumbled Plaster Vertical Corner",
+  "block.conquest.brown_mudstone_vertical_corner_slab": "Spruce Platform with Crumbled Plaster Vertical Corner Slab",
+  "block.conquest.brown_mudstone_vertical_quarter": "Spruce Platform with Crumbled Plaster Vertical Quarter",
+  "block.conquest.brown_mudstone_vertical_slab": "Spruce Platform with Crumbled Plaster Vertical Slab"
 
   
 
